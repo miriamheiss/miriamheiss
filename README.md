@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Miriam Heiss, and I am a beginner at R and RStudio! My pronouns are She/Her. I am an organist (of 5 years), and an ametuer seamstress. I like Marvel, Percy Jackson, and Taylor Swift. 
+My name is Miriam Heiss, and I am a beginner at R and RStudio! My pronouns are She/Her. I am an organist (of 5 years), and an ametuer seamstress. I like Marvel, Percy Jackson, and Taylor Swift. I'm currently working with [David Kane](https://github.com/davidkane9)
 - Here is my blog: https://www.miriamheiss.com/
 - Here is my email: memerheiss@gmail.com
 
