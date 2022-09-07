@@ -6,7 +6,7 @@ I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/fin
 
 I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/primer.tutorials)
 
-```{=html}
+
 <!--
 **miriamheiss/miriamheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
+
