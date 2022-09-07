@@ -4,7 +4,6 @@ My name is Miriam Heiss, and I am a beginner at R and RStudio! My pronouns are S
 - Here is my blog: https://www.miriamheiss.com/
 - Here is my email: memerheiss@gmail.com
 
-
 <!--
 **miriamheiss/miriamheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
