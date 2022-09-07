@@ -1,10 +1,6 @@
 ### Hello there 👋
 
-I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/final-project/), and have been learning the organ for 5 years. I would like to learn CSS and HTML, currently I just know R. My pronouns are She/Her.
-
--   Blog: <https://www.miriamheiss.com/>
-
-I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/primer.tutorials)
+I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/final-project/), and have been learning the organ for 5 years. I would like to learn CSS and HTML, currently I just know R. My pronouns are She/Her. I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/primer.tutorials). I would like to learn CSS and HTML. I also have an ever-updating [blog](https://www.miriamheiss.com/).
 
 
 <!--
@@ -12,13 +8,13 @@ I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/prim
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... check
+- 🌱 I’m currently learning ... check
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ... check
+- 😄 Pronouns: ... check
+- ⚡ Fun fact: ...check
 -->
 
