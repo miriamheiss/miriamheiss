@@ -1,9 +1,12 @@
 ### Hello there 👋
 
-My name is Miriam Heiss, and I am a beginner at R and RStudio! My pronouns are She/Her. I am an organist (of 5 years), and an ametuer seamstress. I like Marvel, Percy Jackson, Jane Austen, Bach, and Taylor Swift.
-- Here is my blog: https://www.miriamheiss.com/
-- Here is my email: memerheiss@gmail.com
+I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/final-project/), and have been learning the organ for 5 years. I would like to learn CSS and HTML, currently I just know R. My pronouns are She/Her.
 
+-   Blog: <https://www.miriamheiss.com/>
+
+I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/primer.tutorials)
+
+```{=html}
 <!--
 **miriamheiss/miriamheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
