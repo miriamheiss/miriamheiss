@@ -4,7 +4,7 @@ I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/fin
 
 [![Miriam Heiss's Github Stats](https://github-readme-stats.vercel.app/api?username=miriamheiss)](https://github.com/miriamheiss/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miriamheiss&layout=compact)](https://github.com/miriamheiss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miriamheiss&layout=compact&langs_count=3)](https://github.com/miriamheiss/github-readme-stats)
 
 <!--
 **miriamheiss/miriamheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
