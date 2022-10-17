@@ -2,7 +2,7 @@
 
 I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/final-project/), and have been learning the organ for 5 years. My pronouns are She/Her. I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/primer.tutorials). I also have an ever-updating [blog](https://www.miriamheiss.com/).
 
-[![Miriam Heiss's Github Stats](https://github-readme-stats.vercel.app/api?username=miriamheiss&theme=rose_pine)](https://github.com/miriamheiss/github-readme-stats)
+[![Miriam Heiss's Github Stats](https://github-readme-stats.vercel.app/api?username=miriamheiss&theme=rose_pine&show_icons=true)](https://github.com/miriamheiss/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miriamheiss&layout=compact&langs_count=3)](https://github.com/miriamheiss/github-readme-stats)
  
