@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-I'm Miriam Heiss! I like [Taylor Swift and Bach](https://www.miriamheiss.com/final-project/), and have been learning the organ for 6 years. My pronouns are She/Her. I currently am working on [PPBDS/primer.tutorials](https://github.com/PPBDS/primer.tutorials). I also have an ever-updating [blog](https://www.miriamheiss.com/).
+general kenobi
+
+I'm Miriam Heiss! I'm mostly an organist, but I use Rstudio to make my blog, which I mostly use to put my arrangments of hymn on :)
  
 <!--
 **miriamheiss/miriamheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
