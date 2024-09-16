@@ -2,7 +2,7 @@
 
 general kenobi
 
-I'm Miriam Heiss! I'm mostly an organist, but I use Rstudio to make my blog, which I mostly use to put my arrangments of hymn on :)
+I'm Miriam Heiss! I'm mostly an organist, but I use Rstudio to make my blog, which I mostly use to put my arrangments of hymns on :)
  
 <!--
 **miriamheiss/miriamheiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
